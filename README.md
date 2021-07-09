@@ -1,8 +1,11 @@
 # Azure Machine Learning Hub by Vivek Raja P S
 
 This is a one stop repo for all my Azure ML related events, code samples, blogs, meetups, presentation decks!
+### Organizer of Azure Developer Community - Chennai, Madurai, Coimbatore - Feb 2021 Onwards
+- Details : https://github.com/Vivek0712/azdev-tn
+- ![Az Community (New Logo) Blue](https://user-images.githubusercontent.com/25385071/118434648-0745e600-b6fb-11eb-8a78-15a97d9443e6.jpg)
 
-# Meetups
+# Talks
 
 | Talk Title                                                  | Organizer                              | Technology            | Date          | Speaker/Host  | Event Link                                                                           | Resources                                                                                                                        |
 |-------------------------------------------------------------|----------------------------------------|-----------------------|---------------|---------------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
@@ -10,7 +13,10 @@ This is a one stop repo for all my Azure ML related events, code samples, blogs,
 | Ep-1 - Azure ML Series                                      | Pie & AI - Bangalore                   | AI, Cloud             | July 11, 2021 | Speaker       | [RSVP](https://www.eventbrite.com/e/pie-ai-bangalore-azure-machine-learning-series-tickets-162466444509)                                                                            | [Git Repo](https://github.com/Vivek0712/azuremlseries)                                                                                                                                 
 | Getting started with Azure AutoML                           | Azure Developer Community - Chandigarh | AI, Cloud             | June 30, 2021 | Speaker       | [Meetup](https://t.co/KyWiSdJI4H?amp=1)                                             | [Deck](https://github.com/Vivek0712/Vivek0712/blob/main/Meetups/Decks/june11-automl%20copy.pptx)                                 || Getting started with Azure AutoML                           | Azure Developer Community - Chandigarh | AI, Cloud             | June 30, 2021 | Speaker       | [Meetup](https://t.co/KyWiSdJI4H?amp=1)                                             | [Deck](https://github.com/Vivek0712/Vivek0712/blob/main/Meetups/Decks/june11-automl%20copy.pptx)                                 |
 | DP 100 Study Jam - Getting started with Azure AutoML        | Azure Developer Community - Tamil Nadu | AI, Cloud             | June 21, 2021 | Speaker       | [Meetup](https://www.meetup.com/azure-developer-community-chennai/events/278442346/) | [Deck](https://github.com/Vivek0712/Vivek0712/blob/main/Meetups/Decks/june11-automl%20copy.pptx)                                 |
-| Designing & deploying COVID-19 forecast app using Machine Learning techniques         | Microsoft Reactor Bengaluru | AI, Cloud                   | July 17, 2020 | Speaker                  | [Meetup](https://lnkd.in/gY2gfsy)                           | [Blog](https://vivekraja98.medium.com/building-end-to-end-covid-19-forecast-model-using-azure-ml-16da338864b3)                                     |
+| Designing & deploying COVID-19 forecast app using Machine Learning techniques         | Microsoft Reactor Bengaluru | AI, Cloud                   | July 17, 2020 | Speaker                  | [Meetup](https://lnkd.in/gY2gfsy)                           | [Blog](https://vivekraja98.medium.com/building-end-to-end-covid-19-forecast-model-using-azure-ml-16da338864b3)      |
+| Deep Dive into Microsoft Azure Automated Machine Learning | Global Azure Datafest 2020             | Microsoft Azure Communities       | AI, Cloud        | July 2, 2020  | [Event](https://lnkd.in/dC-XaPV) | -                                                                                                                                          |
+| AI/ML solutions to tackle COVID-19                        | Cloud Community Days 2020              | KonfHub, Microsoft Azure          | AI               | June 17, 2020 | [Event](http://konf.me/ccdays)   | -      
+
 
 # Blogs
 
@@ -26,3 +32,14 @@ This is a one stop repo for all my Azure ML related events, code samples, blogs,
 
 Interested to check out my other developer communities, Technology talks?
 Check out my Github repos -  https://github.com/Vivek0712/Vivek0712/
+
+# Certifications
+![118434876-715e8b00-b6fb-11eb-9ce0-38d30470ad93](https://user-images.githubusercontent.com/25385071/124273886-38209400-db5e-11eb-9fdc-0b62b3b6b6d0.png)
+
+### Microsoft Azure:
+
+    Microsoft Certified Azure Data Scientist Associate (DP-100) (2020)
+    Microsoft Certified Azure AI Engineer Associate (AI-100) (2020)
+    Microsoft Certified Azure Data Engineer Associate (DP-200 & DP-201) (2020)
+    Microsoft Certified Azure Fundamentals (AZ-900) (2020)
+
